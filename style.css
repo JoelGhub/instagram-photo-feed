@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color: grey;
+    margin: 0 auto;
+    display: flex;
+}
+.container-header{
+   
+    margin: 0 auto;
+    width: 580px;
+    
+}
+header h1{
+   
+    margin: 0 auto;
+    width: 600px;
+    margin-left: 10px;
+}
+header{
+    background-color: white;
+    padding: 10px;
+}
+.numeration{
+    float: right;
+    font-size: 10px;
+    color:grey;
+    margin-top: 1em;
+    margin-right: 5px;
+}
+.dog-1{
+    width: 550px;
+}
+.first-photo{
+    margin: 0 auto;
+    width: 550px;
+    background-color: white;
+    margin-top: 30px;
+}
+.first-photo p{
+    padding: 15px;
+}
+.title{
+    padding: 10px;
+}
